@@ -1,1 +1,1 @@
-add_lunch_combo rr_tomato-userdebug
+add_lunch_combo toxyc_tomato-userdebug
